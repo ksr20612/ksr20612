@@ -13,3 +13,5 @@
 
 ## 📢 Contact me 📢 ##
 - 📧 ksr20612@gmail.com (or ksr20612@daum.net)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksr20612&layout=compact)](https://github.com/ksr20612/github-readme-stats)
