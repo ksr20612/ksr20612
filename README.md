@@ -25,6 +25,3 @@
 <br/> <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksr20612&layout=compact)](https://github.com/ksr20612/github-readme-stats)
-
-![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-dark-mode-only)
