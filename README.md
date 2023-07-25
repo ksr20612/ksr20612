@@ -25,4 +25,6 @@
 <br/> <br/>
 
 ![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-light-mode-only)
