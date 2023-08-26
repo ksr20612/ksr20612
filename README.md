@@ -15,7 +15,7 @@
 <br/>
 
 ## 📖 Currently learning( at least interested in ) 📖 ##
-<img src="https://img.shields.io/badge/Three.js-00ADD8?style=for-the-badge&logo=Three.js&logoColor=white"> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"> <img src="https://img.shields.io/badge/RFC9114(HTTP/3.0)-111111?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Three.js-00ADD8?style=for-the-badge&logo=Three.js&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"> <img src="https://img.shields.io/badge/RFC9114(HTTP/3.0)-111111?style=for-the-badge&logoColor=white">
 
 <br/>
 
