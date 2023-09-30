@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksr20612&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![Moto](https://github.com/ksr20612/ksr20612/assets/48278678/a5a9a9e5-57b7-4a30-b722-976e2f43f456)
+
 ## 🧐 DongYeon Yu 🧐 ##
 <a href="https://blog.naver.com/naivethan"><img src="https://img.shields.io/badge/blog(naver)-03C75A?style=for-the-badge&logoColor=white"></a>
 <a href="https://velog.io/@ksr20612/"><img src="https://img.shields.io/badge/blog(velog)-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
