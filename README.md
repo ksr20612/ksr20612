@@ -1,6 +1,7 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksr20612&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  <img src="https://github.com/ksr20612/ksr20612/assets/48278678/c8a5d098-6dc4-4af2-822d-443d7cddb5db" alt="Comic showing a worker shovelling stairs. He says: 'All these other kids are waiting to use the stairs. When I get through shoveling them off, then I will clear the ramp for you.' A wheelchair user replies, 'But if you shovel the ramp, we can all get in!'" width="auto" height="auto">
+</p>
 
-![Moto](https://github.com/ksr20612/ksr20612/assets/48278678/a5a9a9e5-57b7-4a30-b722-976e2f43f456)
 
 ## 🧐 DongYeon Yu 🧐 ##
 <a href="https://blog.naver.com/naivethan"><img src="https://img.shields.io/badge/blog(naver)-03C75A?style=for-the-badge&logoColor=white"></a>
@@ -25,6 +26,7 @@
 
 ## 📢 Contact me 📢 ##
 - 📧 ksr20612@gmail.com (or ksr20612@daum.net)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksr20612&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/> <br/>
 
