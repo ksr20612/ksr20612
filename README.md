@@ -1,7 +1,13 @@
 <p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksr20612&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" />
+</p>
+<br/>
+
+<p align="center">
   <img src="https://github.com/ksr20612/ksr20612/assets/48278678/c8a5d098-6dc4-4af2-822d-443d7cddb5db" alt="Comic showing a worker shovelling stairs. He says: 'All these other kids are waiting to use the stairs. When I get through shoveling them off, then I will clear the ramp for you.' A wheelchair user replies, 'But if you shovel the ramp, we can all get in!'" width="auto" height="auto">
 </p>
 
+<br/> 
 <p align="center">
   <h2 align="center"> DongYeon Yu </h2>
   <p align="center">
@@ -44,9 +50,10 @@
 
 <br/> <br/>
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksr20612&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-light-mode-only" />
+</p>
 
-![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-light-mode-only)
