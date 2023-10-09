@@ -46,6 +46,11 @@
   <p align="center">
     <a href="mailto: ksr20612@gmail.com" target="_blank">📧 ksr20612@gmail.com</a>
   </p>
+  <p align="center">
+    <a href="https://open.kakao.com/o/s1zUXMLf" target="_blank">
+      🍫 KakaoTalk Open Chat
+    </a>
+  </p>
 </p>
 
 <br/> <br/>
