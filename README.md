@@ -45,7 +45,7 @@
 <p align="center">
   <h2 align="center"> Mainly Interested In </h2>
   <p align="center">
-    Web Accessiblity, User Experience, Internet-based Cognitive-Behavorial Therapy(iCBT) and <strong>Diving deep into Javascript language</strong>
+    Web Accessiblity, Internet-based Cognitive-Behavorial Therapy(iCBT) and <strong>Diving deep into Javascript language</strong>
   </p>
 </p>
 
