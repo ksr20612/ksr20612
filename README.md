@@ -26,14 +26,14 @@
 <p align="center">
   <h2 align="center"> Mainly Interested In </h2>
   <p align="center">
-    Web Accessiblity, Internet-based Cognitive-Behavorial Therapy(iCBT) and <strong>Diving deep into Javascript language</strong>
+    Web Accessiblity, Inclusive Design, Internet-based Cognitive-Behavorial Therapy(iCBT) and <strong>Diving deep into Javascript language</strong>
   </p>
 </p>
 
 <br/>
 
 <p align="center">
-  <h2 align="center">Contact Me</h2>
+  <h2 align="center"> Contact Me </h2>
   <p align="center">
     <a href="mailto: ksr20612@gmail.com" target="_blank">📧 ksr20612@gmail.com</a>
   </p>
