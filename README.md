@@ -15,10 +15,11 @@
 <br/>
 
 <p align="center">
-<h2 align="center"> Currently Working On </h2>
+<h2 align="center"> Currently Working With </h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJs&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Electron-9eeaf9?style=for-the-badge&logo=Electron&logoColor=black"> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> 
+<!--     <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">  -->
+<!--     <img src="https://img.shields.io/badge/Electron-9eeaf9?style=for-the-badge&logo=Electron&logoColor=black">  -->
 <!--     <img src="https://img.shields.io/badge/Flutter-4ad0f6?style=for-the-badge&logo=Flutter&logoColor=white"> -->
   </p>
 </p>
@@ -28,7 +29,7 @@
 <p align="center">
   <h2 align="center"> Mainly Interested In </h2>
   <p align="center">
-    Web Accessiblity, Inclusive Design, Internet-based Cognitive-Behavorial Therapy(iCBT) and <strong>Diving deep into Javascript language</strong>
+    a11y, Inclusive Design, Internet-based Cognitive-Behavorial Therapy(iCBT) and <strong>Diving deep into Javascript language</strong>
   </p>
 </p>
 
