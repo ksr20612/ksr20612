@@ -36,6 +36,8 @@
     <a href="https://blog.naver.com/naivethan" aria-label="icbt blog"><img src="https://img.shields.io/badge/blog(naver)-03C75A?style=for-the-badge&logoColor=white" alt=""></a>
     <a href="https://www.linkedin.com/in/dongyeon-yu-06ab6827b/" aria-label="linked in"><img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt=""></a>
   </div>
+  <br/>
+  <img src="https://velog-readme-stats.vercel.app/api/list?name=ksr20612" alt="blog posts" />
 </section>
 
 <br/>
