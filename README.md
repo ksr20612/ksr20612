@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1 style="display: 'none'">Dongyeon Yu</h1>
+  <h1 style="display: 'none'">Dongyeon Yu, 유동연</h1>
   <br/>
   <img src="https://github.com/ksr20612/ksr20612/assets/48278678/c8a5d098-6dc4-4af2-822d-443d7cddb5db" alt="Comic showing a worker shovelling stairs. He says: 'All these other kids are waiting to use the stairs. When I get through shoveling them off, then I will clear the ramp for you.' A wheelchair user replies, 'But if you shovel the ramp, we can all get in!'" width="auto" height="auto" draggable="false">
 </div>
