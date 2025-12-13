@@ -23,7 +23,7 @@
 <section align="center">
   <h2 align="center"> Mainly Interested In </h2>
   <p align="center">
-    A11y, Inclusive Design, Internet-based Cognitive Behavioral Therapy(iCBT) <br/> and <strong>Diving deep into Javascript language</strong>
+    A11y, Inclusive Design, Internet-based Cognitive Behavioral Therapy(iCBT) <br/> and <strong>Diving deep into JS(TS)</strong>
   </p>
 </section>
 
