@@ -45,7 +45,9 @@
     <a href="https://www.linkedin.com/in/dongyeon-yu-06ab6827b/" aria-label="linked in"><img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt=""></a>
   </div>
   <br/>
-  <a href="https://velog.io/@ksr20612/posts" aria-label="tech blog posts"><img src="https://velog-readme-stats.vercel.app/api/list?name=ksr20612" alt="blog posts" /></a>
+  <div align="center">
+    <a href="https://velog.io/@ksr20612/posts" aria-label="tech blog posts"><img src="https://velog-readme-stats.vercel.app/api/list?name=ksr20612" alt="blog posts" /></a>
+  </div>
 </section>
 
 <br/>
@@ -62,12 +64,14 @@
   </p> -->
 </p>
 
-<br/> <br/>
+<br/> <br/> <br/>
 
 <section align="center">
-  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-dark-mode-only" alt="gitstat" />
-  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-light-mode-only" alt="gitstat" />
-  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-dark-mode-only" alt="gitstat" />
-  <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-light-mode-only" alt="gitstat" />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-dark-mode-only" alt="gitstat" />
+    <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/overview.svg#gh-light-mode-only" alt="gitstat" />
+    <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-dark-mode-only" alt="gitstat" />
+    <img src="https://raw.githubusercontent.com/ksr20612/gitStats/master/generated/languages.svg#gh-light-mode-only" alt="gitstat" />
+  </div>
 </section>
 
