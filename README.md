@@ -46,7 +46,7 @@
   </div>
   <br/>
   <div align="center">
-    <a href="https://velog.io/@ksr20612/posts" aria-label="tech blog posts"><img src="https://ksr20612.github.io/blog/api/recent-posts.svg" alt="blog posts" /></a>
+    <a href="https://ksr20612.github.io/blog" aria-label="tech blog posts"><img src="https://ksr20612.github.io/blog/api/recent-posts.svg" alt="blog posts" /></a>
   </div>
 </section>
 
