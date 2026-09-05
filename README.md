@@ -40,9 +40,9 @@
 <section align="center">
   <h2 align="center"> Find Me At </h2>
   <div align="center">
-    <a href="https://velog.io/@ksr20612/" aria-label="tech blog"><img src="https://img.shields.io/badge/blog(tech)-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt=""></a>
-    <a href="https://blog.naver.com/naivethan" aria-label="icbt blog"><img src="https://img.shields.io/badge/blog(iCBT)-03C75A?style=for-the-badge&logoColor=white" alt=""></a>
-    <a href="https://www.linkedin.com/in/dongyeon-yu-06ab6827b/" aria-label="linked in"><img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt=""></a>
+    <a href="https://ksr20612.github.io/blog/" aria-label="tech blog"><img src="https://img.shields.io/badge/blog(tech)-BBDDE5?style=for-the-badge&logo=gitbook&logoColor=black" alt=""></a>
+    <a href="https://blog.naver.com/naivethan" aria-label="icbt blog"><img src="https://img.shields.io/badge/blog(iCBT)-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt=""></a>
+    <a href="https://www.linkedin.com/in/dongyeon-yu-06ab6827b/" aria-label="linked in"><img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" alt=""></a>
   </div>
   <br/>
   <div align="center">
